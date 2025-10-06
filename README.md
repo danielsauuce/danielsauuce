@@ -2,7 +2,12 @@
 
 I'm a **Software Engineer** based in **Southampton, UK** 🇬🇧  
 
-🎓 I'm currently pursuing a **BSc (Hons) in Software Engineering**,with a solid foundation in full-stack web development, data science, and DevOps. I’m passionate about building user-focused applications and data-driven solutions, with hands-on experience across the full development lifecycle from design and coding to testing, deployment, and documentation. I bring a mix of technical precision and creative problem-solving, always driven by a love for continuous learning and growth.
+🎓 I'm currently pursuing a **BSc (Hons) in Software Engineering**, with a solid foundation in **full-stack web development**, **data science**, and **DevOps**.
+
+💻 I’m passionate about building **user-focused applications** and **data-driven solutions**, with hands-on experience across the **full development lifecycle** — from design and coding to testing, deployment, and documentation.
+
+🚀 I bring a blend of **technical precision** and **creative problem-solving**, always driven by a passion for **continuous learning and growth**.
+
 ---
 ### 🚀 What I Do
 - 🛠️ Work with both **frontend and backend** technologies
