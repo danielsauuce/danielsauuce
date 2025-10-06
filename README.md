@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**danielsauuce/danielsauuce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** based in **Southampton, UK** 🇬🇧  
 
-Here are some ideas to get you started:
+🎓 I'm currently pursuing a **BSc (Hons) in Software Engineering**,with a solid foundation in full-stack web development, data science, and DevOps. I’m passionate about building user-focused applications and data-driven solutions, with hands-on experience across the full development lifecycle from design and coding to testing, deployment, and documentation. I bring a mix of technical precision and creative problem-solving, always driven by a love for continuous learning and growth.
+---
+### 🚀 What I Do
+- 🛠️ Work with both **frontend and backend** technologies
+- 🧠 Develop intelligent and efficient web applications
+- 🤖 Explore **AI and Machine Learning** concepts and real-world implementations  
+- 🧩 Solve complex problems through **clean, maintainable code**
+---
+### 🧰 Tech Stack
+**Languages:** JavaScript (ES6+), Python, SQL, Kotlin 
+**Backend:** Node.js, Express.js, MongoDB, Mongoose  
+**Frontend:** React, TailwindCSS, HTML, CSS 
+**AI/ML (Exploring):** Python (NumPy, Pandas, TensorFlow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let’s Connect and build something amazing
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielsauuce/)
