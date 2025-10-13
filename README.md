@@ -4,7 +4,7 @@ I'm a **Software Engineer** based in **Southampton, UK** 🇬🇧
 
 🎓 Currently pursuing a **BSc (Hons) in Software Engineering** with a focus on **Full-Stack Development** and **DevOps**. I’m passionate about **hands-on learning**, building **real-world solutions**, and **continuous growth**.  
 
-I’m actively expanding my technical expertise while exploring **AI and Machine Learning**. My goal is to become a well-rounded professional who delivers **clean, efficient solutions** and builds **strong, lasting relationships**.  
+My goal is to become a well rounded professional who delivers **clean, efficient solutions** and builds **strong, lasting relationships**.  
 
 💻 I enjoy creating **user-focused applications** and **data-driven solutions**, with experience across the **full development lifecycle** — from design and coding to testing, deployment, and documentation.  
 
@@ -21,7 +21,7 @@ I’m actively expanding my technical expertise while exploring **AI and Machine
 ---
 
 ### 🧰 Tech Stack
-**Languages:** JavaScript (ES6+), Python, SQL, Kotlin  
+**Languages:** JavaScript, Python, SQL, Kotlin  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 **Frontend:** React, TailwindCSS, HTML, CSS  
 **AI/ML (Learning):** Python (NumPy, Pandas)  
